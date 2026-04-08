@@ -8,9 +8,15 @@ This repository contains a collection of digital logic circuits and architecture
 
 ## 📁 Projects Included
 * **4-Bit ALU Design:** Structural and behavioral modeling of an Arithmetic Logic Unit.
+* **"1011" Sequence Detector:** A Moore Finite State Machine (FSM) designed to detect a specific binary sequence, demonstrating control logic and state transitions.
 
 ## 📊 Simulation Results
-![Simulation Waveform](alu_waveform.png)
+
+**4-Bit ALU Waveform:**
+![ALU Waveform](alu_waveform.png)
+
+**Sequence Detector Waveform:**
+![Sequence Detector Waveform](seq_waveform.png)
 
 ## 🚀 How to Run
 1. Clone this repository.
